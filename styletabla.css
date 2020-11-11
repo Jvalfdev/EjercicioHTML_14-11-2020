@@ -1,0 +1,33 @@
+table {
+    border-left:black 3px solid;
+    border-right:black 3px solid;
+    border-top:black 3px solid;
+    border-bottom:black 3px solid;
+    text-align: justify;
+    margin:2%;
+    font-family:verdana;
+    background-color:Orange;
+    }
+    
+    td{
+    padding:15px;
+    }
+    
+    .cabeza{
+    background-color:yellow;
+    font-style:italic;
+    font-weight:bold;
+    padding:3%;
+    text-align:center;
+    }
+    
+    #copy{
+    text-align:center;
+    font-style:italic;
+    font-size:8pt;
+    }
+    
+    input#enviar{
+    background-color:LightSkyBlue;
+    }
+    
